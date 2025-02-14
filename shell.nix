@@ -19,8 +19,8 @@ mkShell {
 
       # Uncomment the following lines to make them available in the shell.
       # pandas
-      # numpy
-      # matplotlib
+      numpy
+      matplotlib
     ]))
   ];
 
